@@ -1,0 +1,48 @@
+body {
+    background-image:url("//ri.riga.lv/rv1g/Audzekni/avilums6/My Documents/NetBeansProjects/HTML5Application/public_html/atteli/papirs-fons.jpg");
+
+
+
+}
+table, td, tr, th {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td, th {
+
+    text-align: center;
+    color:blue;
+}
+li {
+    text-align: left;
+
+}
+h1 {
+    font-size: xx-large;
+    text-align: center;
+}
+
+h2, th {
+    font-size: x-large;
+    text-align: center;
+    }
+
+p.a {
+
+    font-style: italic;
+}
+p {
+    font-family: Calibri;
+    color: purple
+
+}
+
+ol.b, ul.b {
+    color: purple;
+}
+
+img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
